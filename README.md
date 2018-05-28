@@ -13,5 +13,6 @@ var btnClass = classNames({
       'btn-over': !this.state.isPressed && this.state.isHovered
     });
 ```
+* formik [github](https://github.com/jaredpalmer/formik) - react forms made easy
 ## console
 * signale [github](https://github.com/klauscfhq/signale) - Hackable console logger
